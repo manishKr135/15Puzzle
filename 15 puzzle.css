@@ -1,0 +1,180 @@
+﻿.box{
+	padding-left:37px;
+	padding-top:30px;
+	border: 2px solid #001F1F;
+	border-radius: 1px;
+	
+}
+#puzzle{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 80px;
+	border: 8px solid #001F1F;
+	border-radius: 4px;
+}
+#one{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	
+	
+
+
+}
+#two{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-left:75px;
+	
+
+
+}
+#three{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-left:150px;
+	
+
+
+}
+#four{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-left:225px;
+	
+
+}
+#five{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-top:75px;
+	
+
+
+}
+#six{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-top:75px;
+	margin-left:75px;
+	
+
+}
+#seven{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-top:75px;
+	margin-left:150px;
+	
+
+}
+#eight{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-top:75px;
+	margin-left:225px;
+	
+
+
+}
+#nine{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-top:150px;
+	
+
+}
+#ten{
+	position: absolute;
+	width: 37px;
+	height:44px;
+	margin-top:150px;
+	margin-left:75px;
+	
+
+
+}
+#eleven{
+	position: absolute;
+	
+	width: 37px;
+	height:44px;
+	margin-top:150px;
+	margin-left:150px;
+	
+
+}
+#twelve{
+	position: absolute;
+	
+	width: 37px;
+	height:44px;
+	margin-top:150px;
+	margin-left:225px;
+	
+
+}
+#thirteen{
+	position: absolute;
+	
+	width: 37px;
+	height:44px;
+	margin-top:225px;
+	
+
+
+}
+#fourteen{
+	position: absolute;
+	
+	width: 37px;
+	height:44px;
+	margin-top:225px;
+	margin-left:75px;
+	
+
+
+}
+#fifteen{
+	position: absolute;
+	
+	width: 37px;
+	height:44px;
+	margin-top:225px;
+	margin-left:150px;
+	
+
+
+}
+#space{
+	position: absolute;
+	
+	width: 37px;
+	height:44px;
+	margin-top:225px;
+	margin-left:225px;
+	
+	
+
+}
+#but{
+	position: relative;
+	margin-left:700px ;
+	margin-top:65px;
+}
+#but2{
+	position:relative;
+	margin-left:580px ;
+	margin-top:-20px;
+
+}
